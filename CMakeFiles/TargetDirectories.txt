@@ -1,0 +1,3 @@
+F:/CS/C++ Projects/Hello World/CMakeFiles/world.dir
+F:/CS/C++ Projects/Hello World/CMakeFiles/edit_cache.dir
+F:/CS/C++ Projects/Hello World/CMakeFiles/rebuild_cache.dir
